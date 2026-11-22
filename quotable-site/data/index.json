@@ -1,0 +1,391 @@
+{
+ "courses": {
+  "S": [
+   "cm",
+   "sa",
+   "sb",
+   "c"
+  ],
+  "A": [
+   "cm",
+   "aa",
+   "ab",
+   "c"
+  ]
+ },
+ "modules": {
+  "cm": {
+   "n": "Common Module: Texts and human experiences",
+   "r": "How texts represent individual and collective human experience: emotional, intellectual, physical, cultural and lived experiences; identity, culture, acceptance and growth; the tension between agency and conformity; and the paradoxes of motivation and behaviour.",
+   "q": [
+    "How does the composer of your prescribed text offer you opportunities to examine assumptions about human strength and vulnerability? In your response, make close reference to your prescribed text.",
+    "Analyse how the representation of particular lives in your prescribed text enriches your understanding of the endurance of the human spirit. In your response, make close reference to your prescribed text."
+   ],
+   "k": [
+    "Key words: offer you opportunities (your reading, not just the text); examine assumptions (what readers first expect, then the text challenges); human strength and vulnerability (use both, and show how they relate). Aim for a judgement about how strength and vulnerability coexist.",
+    "Key words: analyse (break down how); particular lives (one or more specific characters or speakers); enriches your understanding (what you now understand); endurance of the human spirit (survival, resilience, hope). Link the particular to the universal."
+   ]
+  },
+  "sa": {
+   "n": "Module A: Language, identity and culture",
+   "r": "How language reflects and shapes individual and collective identity, and how texts affirm, ignore, challenge and disrupt assumptions about individuals and culturally connected groups. Study ONE prescribed text.",
+   "q": [
+    "Analyse how the language of your prescribed text reflects and shapes diverse cultural perspectives. In your response, make close reference to your prescribed text.",
+    "How does your prescribed text reveal the benefits and challenges of belonging to specific cultures? In your response, make close reference to your prescribed text."
+   ],
+   "k": [
+    "Key words: language (features, forms, mode); reflects and shapes (two directions: language shows culture and also builds it); diverse cultural perspectives (more than one).",
+    "Key words: benefits AND challenges (give both); belonging; specific cultures (name the cultures in your text)."
+   ]
+  },
+  "sb": {
+   "n": "Module B: Close study of literature",
+   "r": "The interplay of ideas, form and language in ONE substantial text, and how text and context create its distinctive qualities.",
+   "q": [
+    "How does your prescribed text enhance your appreciation of the relationship between observations and feelings? In your response, make close reference to your prescribed text.",
+    "Analyse how different values and attitudes are exposed through the key features of your prescribed text. In your response, make close reference to your prescribed text."
+   ],
+   "k": [
+    "Key words: enhance your appreciation (personal response); observations (what is seen) and feelings (what is felt); relationship (how one leads to, hides or changes the other).",
+    "Key words: different values and attitudes (more than one, ideally in tension); exposed (revealed, sometimes critically); key features (form, language, structure)."
+   ]
+  },
+  "aa": {
+   "n": "Module A: Textual conversations",
+   "r": "A comparative study of TWO texts to reveal resonances and dissonances in context, values, form and language, and how a comparison creates new understanding of each text.",
+   "q": [
+    "Compare how the complexities of moral ambiguity are explored between and within your two prescribed texts. In your response, make close reference to the pair of prescribed texts that you have studied in Module A.",
+    "To what extent has your perspective of the earlier text determined your interpretation and appreciation of the later text? In your response, make detailed reference to both of your prescribed texts."
+   ],
+   "k": [
+    "Key words: compare (similarity and difference); complexities of moral ambiguity (right and wrong blurred); between AND within (compare across the texts and show complexity inside each).",
+    "Key words: to what extent (a judgement of degree); perspective of the earlier text (what it taught you to expect); interpretation and appreciation (how you read and value the later text)."
+   ]
+  },
+  "ab": {
+   "n": "Module B: Critical study of literature",
+   "r": "Critical study of ONE complex text: its construction, content and language, its context and reception, and informed personal perspectives on its literary value.",
+   "q": [
+    "How are ideas about stability and disruption investigated through the imaginative aspects of your prescribed text? In your response, make close reference to your prescribed text.",
+    "Evaluate how the artistry and integrity of your prescribed text has influenced your understanding of its literary value. In your response, make detailed reference to your prescribed text."
+   ],
+   "k": [
+    "Key words: investigated (explored and tested); stability AND disruption; imaginative aspects (plot, characters, setting, language, form).",
+    "Key words: evaluate (judge, with a clear verdict); artistry (craft) and integrity (honesty and coherence of vision); literary value (why the text lasts)."
+   ]
+  },
+  "c": {
+   "n": "Module C: The craft of writing",
+   "r": "Composing and reflecting on imaginative, discursive, persuasive and reflective texts, using quality texts as models.",
+   "q": [],
+   "k": []
+  }
+ },
+ "texts": [
+  {
+   "id": "au",
+   "nm": "Cold Enough for Snow",
+   "by": "Jessica Au",
+   "mod": "cm",
+   "full": true
+  },
+  {
+   "id": "mal",
+   "nm": "An Imaginary Life",
+   "by": "David Malouf",
+   "mod": "cm",
+   "full": true
+  },
+  {
+   "id": "law",
+   "nm": "Henry Lawson Short Stories (5 prescribed)",
+   "by": "Henry Lawson",
+   "mod": "cm",
+   "full": true
+  },
+  {
+   "id": "dob",
+   "nm": "Selected Poems of Rosemary Dobson",
+   "by": "Rosemary Dobson",
+   "mod": "cm",
+   "full": true
+  },
+  {
+   "id": "har",
+   "nm": "Selected Poems",
+   "by": "Gwen Harwood",
+   "mod": "cm"
+  },
+  {
+   "id": "wat",
+   "nm": "Love Poems and Death Threats",
+   "by": "Samuel Wagan Watson",
+   "mod": "cm"
+  },
+  {
+   "id": "fla",
+   "nm": "Question 7",
+   "by": "Richard Flanagan",
+   "mod": "cm"
+  },
+  {
+   "id": "gow",
+   "nm": "Away",
+   "by": "Michael Gow",
+   "mod": "cm",
+   "full": true
+  },
+  {
+   "id": "one",
+   "nm": "One Night the Moon (film)",
+   "by": "Rachel Perkins",
+   "mod": "cm"
+  },
+  {
+   "id": "nam",
+   "nm": "The Namesake",
+   "by": "Jhumpa Lahiri",
+   "mod": "sa"
+  },
+  {
+   "id": "swa",
+   "nm": "Swallow the Air",
+   "by": "Tara June Winch",
+   "mod": "sa"
+  },
+  {
+   "id": "per",
+   "nm": "The Perseverance",
+   "by": "Raymond Antrobus",
+   "mod": "sa"
+  },
+  {
+   "id": "cap",
+   "nm": "Contemporary Asian Australian Poets",
+   "by": "Aitken, Boey and Cahill (eds)",
+   "mod": "sa"
+  },
+  {
+   "id": "qui",
+   "nm": "The Quiet Girl (film)",
+   "by": "Colm Bairéad",
+   "mod": "sa"
+  },
+  {
+   "id": "sha",
+   "nm": "Shafana and Aunt Sarrinah",
+   "by": "Alana Valentine",
+   "mod": "sa"
+  },
+  {
+   "id": "fee",
+   "nm": "Feed",
+   "by": "M.T. Anderson",
+   "mod": "sb"
+  },
+  {
+   "id": "lim",
+   "nm": "Limberlost",
+   "by": "Robbie Arnott",
+   "mod": "sb"
+  },
+  {
+   "id": "duf",
+   "nm": "Collected Poems",
+   "by": "Carol Ann Duffy",
+   "mod": "sb"
+  },
+  {
+   "id": "myp",
+   "nm": "My People",
+   "by": "Oodgeroo Noonuccal",
+   "mod": "sb"
+  },
+  {
+   "id": "mua",
+   "nm": "Much Ado About Nothing",
+   "by": "William Shakespeare",
+   "mod": "sb"
+  },
+  {
+   "id": "arr",
+   "nm": "Arrival (film)",
+   "by": "Denis Villeneuve",
+   "mod": "sb"
+  },
+  {
+   "id": "bay",
+   "nm": "Bush Studies + Inside My Mother",
+   "by": "Barbara Baynton + Ali Cobby Eckermann",
+   "mod": "aa"
+  },
+  {
+   "id": "bla",
+   "nm": "Poems + Drive Your Plow Over the Bones of the Dead",
+   "by": "William Blake + Olga Tokarczuk",
+   "mod": "aa"
+  },
+  {
+   "id": "kea",
+   "nm": "The Complete Poems + Bright Star (film)",
+   "by": "John Keats + Jane Campion",
+   "mod": "aa"
+  },
+  {
+   "id": "ham",
+   "nm": "Hamlet + The Complete Poems",
+   "by": "William Shakespeare + Emily Dickinson",
+   "mod": "aa",
+   "full": true
+  },
+  {
+   "id": "jul",
+   "nm": "Julius Caesar + The Prince",
+   "by": "William Shakespeare + Niccolò Machiavelli",
+   "mod": "aa"
+  },
+  {
+   "id": "mrs",
+   "nm": "Mrs Dalloway + The Hours (film)",
+   "by": "Virginia Woolf + Stephen Daldry",
+   "mod": "aa"
+  },
+  {
+   "id": "pp",
+   "nm": "Pride and Prejudice",
+   "by": "Jane Austen",
+   "mod": "ab",
+   "full": true
+  },
+  {
+   "id": "war",
+   "nm": "Warlight",
+   "by": "Michael Ondaatje",
+   "mod": "ab"
+  },
+  {
+   "id": "glu",
+   "nm": "Poems",
+   "by": "Louise Glück",
+   "mod": "ab"
+  },
+  {
+   "id": "yea",
+   "nm": "Poems selected by Seamus Heaney",
+   "by": "W.B. Yeats",
+   "mod": "ab"
+  },
+  {
+   "id": "oth",
+   "nm": "Othello",
+   "by": "William Shakespeare",
+   "mod": "ab"
+  },
+  {
+   "id": "hen",
+   "nm": "King Henry IV, Part 1",
+   "by": "William Shakespeare",
+   "mod": "ab"
+  }
+ ],
+ "bands": {
+  "A": "Sustained, perceptive argument that answers every part of the question. Evidence is carefully chosen and woven into your own sentences. Technique is named precisely and its effect on the audience is explained. Context and the module’s ideas are used to deepen the argument, not added on.",
+  "B": "A clear argument that answers the question. Good evidence and technique, but the effect or the link to the question is sometimes general. Some paragraphs describe more than they evaluate.",
+  "C": "A sound but limited response. It mostly retells or lists, names techniques without explaining their effect, and links to the question only loosely.",
+  "D": "A simple response with little evidence. It mainly retells the text, with few or incorrect techniques and little reference to the question.",
+  "_note": "Fallback. Use lens[course].bands in the app."
+ },
+ "structure": {
+  "intro": [
+   "Thesis: answer the question in one clear argument.",
+   "Text and context: name the composer, the text, and the context that shapes it.",
+   "Themes: outline the ideas you will argue, in the order of your paragraphs.",
+   "Link: a closing sentence that signals your three paragraphs."
+  ],
+  "body": [
+   "Topic sentence: the single idea this paragraph proves, answering the question.",
+   "Expanding sentence: develop or qualify the idea and place it in the text.",
+   "Example: embed a short quote in your own sentence.",
+   "Technique: name the technique precisely.",
+   "Analysis: explain the effect on the audience and the link to the module.",
+   "Link: tie back to your thesis. (Stronger essays repeat example, technique and analysis three times.)"
+  ],
+  "conc": [
+   "Restate the thesis in fresh words.",
+   "Synthesise: pull the three paragraphs into one idea.",
+   "Final judgement: end with an insight about value or meaning."
+  ]
+ },
+ "lens": {
+  "S": {
+   "name": "English Standard",
+   "short": "Standard",
+   "tag": "Explain it clearly and back it up",
+   "focus": "In Standard you are marked on how clearly and accurately you explain how the composer shapes meaning. Answer the question directly, support every point with a close example, name the technique and explain its effect on the audience.",
+   "out": [
+    "Respond to texts with understanding, interpretation and critical analysis",
+    "Analyse how language forms, features and structures shape meaning for particular audiences and purposes",
+    "Explain how texts represent ideas, perspectives and human experiences",
+    "Express a considered personal view, supported by evidence",
+    "Organise and express ideas clearly, accurately and fluently"
+   ],
+   "bands": {
+    "A": "Clear, well-organised response that answers every part of the question. Examples are well chosen and woven into your own sentences, techniques are named correctly and their effect on the audience is explained, and each paragraph links back to the question and the module.",
+    "B": "A clear response that mostly answers the question. Good examples and techniques, but the effect is sometimes general and the link back to the question is missing in places.",
+    "C": "A sound but limited response. It explains the text but often retells, names techniques without explaining their effect, and links to the question only loosely.",
+    "D": "A basic response with little evidence. It mainly retells the story, uses few or incorrect techniques and says little about the question."
+   },
+   "frames": [
+    "The composer presents ___ as ___ through ___, which positions the audience to ___.",
+    "This is reinforced when ___, showing that ___.",
+    "The effect of this technique is ___, so the audience understands that ___.",
+    "This links to the module because ___."
+   ],
+   "pitch": {
+    "cm0": "Pick two or three clear moments where strength and vulnerability show. Explain what the composer does, then say what that makes the audience understand. A clear thesis such as “strength and vulnerability exist together” is enough, as long as every paragraph proves it.",
+    "cm1": "Choose lives that show someone continuing despite difficulty. For each example, name the technique and explain how it makes the audience admire, understand or question that endurance. Keep returning to the phrase “the endurance of the human spirit”."
+   },
+   "mod": {
+    "cm": "Show how the text represents human experiences and what it makes the audience understand.",
+    "sa": "Explain how language shapes and reflects identity and culture, with clear examples.",
+    "sb": "Show how ideas, form and language work together in one text, using close reading.",
+    "c": "Compose and reflect on your own writing using quality models."
+   }
+  },
+  "A": {
+   "name": "English Advanced",
+   "short": "Advanced",
+   "tag": "Argue it with complexity and control",
+   "focus": "In Advanced you are marked on the sophistication of your argument. Treat the question as a problem to think through: weigh competing ideas, explore tension and paradox, evaluate how and why the composer shapes meaning, and sustain a conceptual thesis with precise evidence and metalanguage.",
+   "out": [
+    "Develop sophisticated, sustained and critical interpretations supported by close textual analysis",
+    "Evaluate how composers’ choices, language forms and features shape complex meaning for audiences and contexts",
+    "Synthesise and challenge ideas, perspectives and assumptions represented in texts",
+    "Use precise metalanguage and evaluative language to justify judgements",
+    "Compose with control, fluency and stylistic flair"
+   ],
+   "bands": {
+    "A": "Sustained, perceptive and conceptual argument. It engages with the complexity of the question, weighs ideas rather than listing them, and uses carefully selected evidence, precise metalanguage and context to deepen the argument. Expression is fluent and controlled.",
+    "B": "A clear, well-supported argument with good analysis, but sophistication is uneven: some paragraphs describe more than they evaluate, and the conceptual link to the question is sometimes general.",
+    "C": "A sound but limited response. It mostly explains or lists, names techniques without evaluating their effect, and the argument stays on the surface of the question.",
+    "D": "A simple response with little evidence. It mainly retells the text, uses few or incorrect techniques and does not develop an argument."
+   },
+   "frames": [
+    "Rather than presenting ___ as simply ___, the composer complicates this by ___.",
+    "The tension between ___ and ___ invites the reader to reconsider ___.",
+    "This is not merely ___ but ___, revealing that ___.",
+    "Ultimately, the text suggests that ___, challenging the assumption that ___."
+   ],
+   "pitch": {
+    "cm0": "Do not treat strength and vulnerability as opposites. Argue how the text exposes the assumptions behind them, and where those assumptions break down. A strong thesis names a paradox, such as vulnerability being a form of strength, then tests it with three precise examples.",
+    "cm1": "Go beyond “the characters endure”. Question what endurance costs and what it asks of the human spirit. Evaluate how the form and language of the text make endurance feel earned, fragile or contested, and let that complexity drive your thesis."
+   },
+   "mod": {
+    "cm": "Argue a perceptive, conceptual position on human experience, exploring paradox and tension.",
+    "sa": "",
+    "sb": "",
+    "c": "Compose and reflect with control and flair, using quality models."
+   }
+  }
+ }
+}
